@@ -1,7 +1,9 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction : column;
   justify-content: center;
+
 }
 
 .App-logo {
@@ -44,4 +46,12 @@
 
 .time h1{
   font-size: 4em;
+}
+.man-buttons{
+  display: flex;
+  justify-content: center;
+}
+.d-flex{
+  display : flex;
+  justify-content: center;
 }
